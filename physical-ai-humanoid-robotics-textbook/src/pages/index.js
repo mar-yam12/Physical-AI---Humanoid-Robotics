@@ -531,7 +531,7 @@ export default function PhysicalAILanding() {
               </p>
               
               <div className="button-group">
-                <a href="/physical-ai-humanoid-robotics-textbook/docs/Intro" className="btn-primary">
+                <a href="/docs/Intro" className="btn-primary">
                   <span>📚</span>
                   Start Learning
                   <span>→</span>
