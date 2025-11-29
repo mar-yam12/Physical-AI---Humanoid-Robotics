@@ -1,0 +1,20 @@
+{
+  "id": "Module-1-The-Robotic-Nervous-System-ROS2/chapter-1",
+  "title": "Chapter 1: Middleware for Robot Control",
+  "description": "---",
+  "source": "@site/docs/Module-1-The-Robotic-Nervous-System-ROS2/chapter-1.md",
+  "sourceDirName": "Module-1-The-Robotic-Nervous-System-ROS2",
+  "slug": "/Module-1-The-Robotic-Nervous-System-ROS2/chapter-1",
+  "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The-Robotic-Nervous-System-ROS2/chapter-1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Module-1-The-Robotic-Nervous-System-ROS2/chapter-1.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 2: ROS 2 Nodes, Topics, and Services",
+    "permalink": "/physical-ai-humanoid-robotics-textbook/docs/Module-1-The-Robotic-Nervous-System-ROS2/chapter-2"
+  }
+}
